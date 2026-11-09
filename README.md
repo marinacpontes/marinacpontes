@@ -16,8 +16,10 @@
 
 | Projeto | Descrição | Repositório |
 | --- | --- | --- |
-| **Sistema de loteamento** | Sistema para gestão de loteamento | [Link do Repositório](https://github.com/marinacpontes/sistemaimobiliaria) |
 | **Perto de Mim** | App para encontrar prestadores de serviços perto de você | [Link do Repositório](https://github.com/marinacpontes/pertodemim) |
+| **Agente de IA** | Cria cursos sobre os temas que forem solicitados | [Link do Repositório](https://github.com/marinacpontes/buildwithai) |
+| **Sistema de loteamentos** | Sistema para gestão de loteamentos | [Link do Repositório](https://github.com/marinacpontes/sistemaimobiliaria) |
+| **Sistema de lanchonete** | Sistema para pedidos de uma lanchonete | [Link do Repositório](https://github.com/marinacpontes/lanchonetesistema) |
 
 ### Minhas Redes
 
